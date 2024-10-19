@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\\u8BA1\u7B97\u673A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF1BD20-C8B1-8E3B-1226-63B55D973B5E}|Assembly-CSharp.csproj|D:\\UnityProject\\\u8BA1\u7B97\u673A\\assets\\script\\multiplicationoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF1BD20-C8B1-8E3B-1226-63B55D973B5E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\multiplicationoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF1BD20-C8B1-8E3B-1226-63B55D973B5E}|Assembly-CSharp.csproj|D:\\UnityProject\\\u8BA1\u7B97\u673A\\assets\\script\\divisionoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF1BD20-C8B1-8E3B-1226-63B55D973B5E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\divisionoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF1BD20-C8B1-8E3B-1226-63B55D973B5E}|Assembly-CSharp.csproj|D:\\UnityProject\\\u8BA1\u7B97\u673A\\assets\\script\\subtractionoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF1BD20-C8B1-8E3B-1226-63B55D973B5E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\subtractionoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF1BD20-C8B1-8E3B-1226-63B55D973B5E}|Assembly-CSharp.csproj|D:\\UnityProject\\\u8BA1\u7B97\u673A\\assets\\script\\additionoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF1BD20-C8B1-8E3B-1226-63B55D973B5E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\additionoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF1BD20-C8B1-8E3B-1226-63B55D973B5E}|Assembly-CSharp.csproj|D:\\UnityProject\\\u8BA1\u7B97\u673A\\assets\\script\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF1BD20-C8B1-8E3B-1226-63B55D973B5E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF1BD20-C8B1-8E3B-1226-63B55D973B5E}|Assembly-CSharp.csproj|d:\\unityproject\\\u8BA1\u7B97\u673A\\assets\\script\\operationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF1BD20-C8B1-8E3B-1226-63B55D973B5E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\operationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 173,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u8BA1\u7B97\u673A\\Assets\\Script\\Operation.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Operation.cs",
+              "ToolTip": "D:\\UnityProject\\\u8BA1\u7B97\u673A\\Assets\\Script\\Operation.cs",
+              "RelativeToolTip": "Assets\\Script\\Operation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:35:19.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OperationManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u8BA1\u7B97\u673A\\Assets\\Script\\OperationManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\OperationManager.cs",
+              "ToolTip": "D:\\UnityProject\\\u8BA1\u7B97\u673A\\Assets\\Script\\OperationManager.cs",
+              "RelativeToolTip": "Assets\\Script\\OperationManager.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAIwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:49:53.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdditionOperation.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u8BA1\u7B97\u673A\\Assets\\Script\\AdditionOperation.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AdditionOperation.cs",
+              "ToolTip": "D:\\UnityProject\\\u8BA1\u7B97\u673A\\Assets\\Script\\AdditionOperation.cs",
+              "RelativeToolTip": "Assets\\Script\\AdditionOperation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:28:09.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubtractionOperation.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u8BA1\u7B97\u673A\\Assets\\Script\\SubtractionOperation.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SubtractionOperation.cs",
+              "ToolTip": "D:\\UnityProject\\\u8BA1\u7B97\u673A\\Assets\\Script\\SubtractionOperation.cs",
+              "RelativeToolTip": "Assets\\Script\\SubtractionOperation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:38:01.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DivisionOperation.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u8BA1\u7B97\u673A\\Assets\\Script\\DivisionOperation.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DivisionOperation.cs",
+              "ToolTip": "D:\\UnityProject\\\u8BA1\u7B97\u673A\\Assets\\Script\\DivisionOperation.cs",
+              "RelativeToolTip": "Assets\\Script\\DivisionOperation.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAywBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:37:57.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MultiplicationOperation.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u8BA1\u7B97\u673A\\Assets\\Script\\MultiplicationOperation.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MultiplicationOperation.cs",
+              "ToolTip": "D:\\UnityProject\\\u8BA1\u7B97\u673A\\Assets\\Script\\MultiplicationOperation.cs",
+              "RelativeToolTip": "Assets\\Script\\MultiplicationOperation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:37:53.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
