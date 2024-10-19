@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9036b0bb1baf70646b0357c8aafcd9c2, type: 3}
+  m_Name: S5Car
+  m_EditorClassIdentifier: 
+  carName: "\u8F66"
+  carBodyPrefab: {fileID: 7356530545204167593, guid: 49edccd5e96e4724c9360b084ce90f1d, type: 3}
+  carBodyPos: {x: 0, y: 0, z: 0}
+  carBumperPrefab: {fileID: 7056301833260292825, guid: bed3ccfaa3121b2469bebdbb4c92f7dd, type: 3}
+  carBumperPos: {x: 0, y: 0, z: 3}
+  tireLPrefab: {fileID: 1500186103572743730, guid: 0dfd2fc48ef439b4d9b55f24911cd70f, type: 3}
+  tiresLPositions:
+  - {x: 1.28, y: 0.5, z: 1.626}
+  - {x: 1.28, y: 0.5, z: -1.73}
+  tireRPrefab: {fileID: 4831662173858440329, guid: 2865c1a055e341147aab1eafcaa736e3, type: 3}
+  tiresRPositions:
+  - {x: -1.29, y: 0.54, z: 1.68}
+  - {x: -1.29, y: 0.54, z: -1.75}
+  carLightPrefab: {fileID: 2972881538684455209, guid: ca3875791c54e0946a2f48402cef8a5b, type: 3}
+  carLightPos: {x: 0, y: 0, z: 3}
