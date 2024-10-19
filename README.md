@@ -41,6 +41,9 @@ UI设计和用户体验（20%）：直观、易用的界面，良好的视觉反
 实现简单的汽车定制功能（如改变颜色、添加贴纸等）
 学习资源
 Unity官方文档：https://docs.unity3d.com/Manual/index.html
+
 C# 编程指南：https://docs.microsoft.com/en-us/dotnet/csharp/
+
 设计模式教程：https://refactoring.guru/design-patterns
+
 Git基础：https://git-scm.com/book/en/v2
